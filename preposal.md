@@ -1,13 +1,11 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
+my own version of mario kart 
 
-TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
-
+nope 
 ## Do you have any questions of your own?
-
-TODO
+not for now 
